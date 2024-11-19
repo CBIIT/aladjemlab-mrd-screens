@@ -1,4 +1,7 @@
 # aladjemlab-mrd-screens
+
+### General Information
+
 This is a repo containing the R code used to generate the RNAi screen results included in the Nature Manuscript 2023-12-22155B from the Aladjem Lab at the National Cancer Institute/NIH. The R code heavily uses the [cellHTS2 package](https://www.bioconductor.org/packages/release/bioc/html/cellHTS2.html).
 
 **Title:** Mechanism for local attenuation of DNA replication at double-strand breaks
@@ -7,7 +10,9 @@ This is a repo containing the R code used to generate the RNAi screen results in
 
 **DOI:** TBD
 
-The code for the analysis of the primary RNAi screens is contained in two self-contained subfolders folders: `DDR` containing the RNAi screen data generated using the DNA Damage Response library, and `Kinome`, containing the RNAi screen data generated using the Kinome library. 
+The code for the analysis of the primary RNAi screens is contained in two self-contained subfolders: `DDR` containing the RNAi screen data generated using the DNA Damage Response library, and `Kinome`, containing the RNAi screen data generated using the Kinome library, respectively. 
+
+### DNA Damage Response (DDR) Screen
 
 The `DDR` folder contains:
 
@@ -21,6 +26,8 @@ The `DDR` folder contains:
 The subfolder containing primary RNAi DDR screen results relevant for this manuscript is:
 
 - `spots_edu_pos_median_ratio`: These are data relative to ratio of EdU intensity between the outside and the inside of the pH2AX spots in EdU positive cells.
+
+### Kinome Screen
 
 The `Kinome` folder contains:
 
