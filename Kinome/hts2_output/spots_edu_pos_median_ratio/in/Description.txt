@@ -1,0 +1,31 @@
+[Lab description]
+Experimenter name: Robin Sebastian/Gianluca Pegoraro
+Laboratory: Aladjem Lab and HiTIF, CCR, NCI, NIH
+Contact information: gianluca.pegoraro@nih.gov
+
+[Screen description]
+Screen:Epigenetics Screen for modifiers of Edu levels around H2AX foci
+Title: <put there the single-sentence giving the experiment title>
+Version: 0.1
+Date: Feb 2022
+Screentype: siRNA Screen
+Organism: Homo Sapiens
+Celltype: U2OS
+Library: Ambion siRNA Silencer Select, Human Kinome library (ThermoFisher)
+Assay: Measurement of Edu int. ratio at and around H2AX foci
+Assaytype: High Content/Immunofluorescence.
+Assaydescription: <put here the description of the assay>
+
+[Publication description]
+Publicationtitle:
+Reference:
+PMIDs: <put here the PubMed identifiers of papers relevant to the dataset>
+URL: <put here the URL for the experiment>
+License:
+Abstract: <put here the abstract describing the experiment>
+
+[Files]
+plateList: <put the name of the plate result list file>
+annotation: <put the name of the screen library annotation file>
+plateConf: <put the name of the screen plate configuration file>
+screenLog: <put the name of screen log file, if available>

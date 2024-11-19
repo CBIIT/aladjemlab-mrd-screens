@@ -1,0 +1,54 @@
+Run ID,1640007333
+Run Date/Time,2021-12-20 08:52:39
+Application Name,Labcyte Echo Plate Reformat
+Application Version,1.6.5
+Protocol Name,211220_Add_siRNA_Controls_HuKinase.epr
+User Name,NCI-LRBGE_HCS
+
+[DETAILS]
+Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Survey Fluid Height,Survey Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Survey Status
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,A18,2.447,12.413,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,B18,2.442,12.393,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,C18,2.424,12.313,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,D18,2.424,12.313,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,E18,2.461,12.479,0.65,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,F18,2.435,12.359,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,G18,2.415,12.272,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,H18,2.415,12.272,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,I18,2.407,12.232,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,J18,2.408,12.239,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,K18,2.435,12.359,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,L18,2.423,12.306,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,A17,1.808,9.44,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,A19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (1th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,B17,1.467,7.9,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,B19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (2th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,C17,1.743,9.143,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,C19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (3th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,D17,1.466,7.893,0.511,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,D19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (4th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,E17,1.743,9.143,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,E19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (5th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,F17,1.476,7.935,0.874,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,F19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (6th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,G17,1.591,8.461,0.408,Percent,Glycerol,
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,G19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (7th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,H17,0,0,0,Percent,Glycerol,"Data missing for well (8th row, 17th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,H19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (8th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,I17,0,0,0,Percent,Glycerol,"Data missing for well (9th row, 17th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,I19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (9th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,J17,0,0,0,Percent,Glycerol,"Data missing for well (10th row, 17th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,J19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (10th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,K17,0,0,0,Percent,Glycerol,"Data missing for well (11th row, 17th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,K19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (11th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,L17,0,0,0,Percent,Glycerol,"Data missing for well (12th row, 17th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,L19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (12th row, 19th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,M17,0,0,0,Percent,Glycerol,"Data missing on PADDED well (13th row, 17th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,M18,0,0,0,Percent,Glycerol,"Data missing on PADDED well (13th row, 18th column), defaulting to 0.0 value of Glycerol"
+Source[1],UnknownBarCode,384LDV_Plus_AQ_GP,M19,0,0,0,Percent,Glycerol,"Data missing on PADDED well (13th row, 19th column), defaulting to 0.0 value of Glycerol"
+
+Instrument Name,E5XX-1710
+Instrument Model,Echo 525
+Instrument Serial Number,E5XX-1710
+Instrument Software Version,2.5.15
+
