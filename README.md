@@ -2,7 +2,7 @@
 
 ### General Information
 
-This is a repo containing the R code used to generate the RNAi screen results included in the Nature Manuscript 2023-12-22155B from the Aladjem Lab at the National Cancer Institute/NIH. The R code heavily uses the [cellHTS2 package](https://www.bioconductor.org/packages/release/bioc/html/cellHTS2.html).
+This is a repo containing the R code used to generate the RNAi screen results included in the Nature Manuscript 2023-12-22155B from the Aladjem Lab at the National Cancer Institute/NIH. The R code heavily uses the [cellHTS2 package](https://bioconductor.riken.jp/packages/3.13/bioc/html/cellHTS2.html).
 
 **Title:** Mechanism for local attenuation of DNA replication at double-strand breaks
 
