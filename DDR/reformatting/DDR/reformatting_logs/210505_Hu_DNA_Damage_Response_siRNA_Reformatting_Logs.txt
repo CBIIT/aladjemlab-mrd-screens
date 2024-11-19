@@ -1,0 +1,44 @@
+210507 Laurent Ozbun
+### Resuspension of Hu DNA Damage siRNA library plates:
+- 0.25 mol of each siRNA per well 
+- Thaw plates (Labcyte #P-05525)
+- Spin them
+- Unseal plates 
+- Remove tips from last 2 column of 96-tip box corresponding to empty siRNA wells.
+- Dispense 50 ul of water into the 384-well plates provided by Ambion (Final conc: 5 uM).    
+    Use the 96 well compression program to "compress" water into the 384 WP format
+- Pipette up and down 5 times. 
+- Reseal with Aluma Seal
+- Freeze at -80C
+
+Plates with 352 siRNA
+- CPE20GU3, CPE20GU4, CPE20GU5
+
+Plates with 288 siRNA:
+- CPE20GU6, CPE20GU7, CPE20GU8
+ 
+
+210512 Laurent Ozbun
+### MasterPlate to LDV Daughter plate
+
+  +CPE20GU3 -->HT000901, HT000902, HT000903
+  +CPE20GU4 -->HT000904, HT000905, HT000906
+  +CPE20GU5 -->HT000907, HT000908, HT000909
+  +CPE20GU6 -->HT000910, HT000911, HT000912
+  +CPE20GU7 -->HT000913, HT000914, HT000915
+  +CPE20GU8 -->HT000916, HT000917, HT000918
+
+
+
+210709 Laurent Ozbun
+ ### Spot 3 sets of imaging plates (6 plates per set) for Robin Sebastian
+
+ +HT000901 -->HTIF00296, HTIF00302, HTIF00308
+ +HT000904 -->HTIF00297, HTIF00303, HTIF00309
+ +HT000907 -->HTIF00298, HTIF00304, HTIF00310
+ +HT000910 -->HTIF00299, HTIF00305, HTIF00311
+ +HT000913 -->HTIF00300, HTIF00306, HTIF00312
+ +HT000916 -->HTIF00301, HTIF00307, HTIF00313
+
+- Exceptions: Well N3 of plates HT000901 and HT000901 did not transfer.  This appears to be a JANUS pipetting tip error and the volume was not transferred.
+

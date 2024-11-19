@@ -1,0 +1,8 @@
+Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Well X Offset,Destination Well Y Offset,Sample ID,Sample Name,Transfer Volume,Actual Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+Source[1],HT000901,384LDV_Plus_AQ_GP,N3,Destination[1]-01,HTIF00296,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N3,0,0,,,150,0,0,0,Percent,Glycerol,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+Source[1],HT000901,384LDV_Plus_AQ_GP,N3,Destination[1]-02,HTIF00302,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N3,0,0,,,150,0,0,0,Percent,Glycerol,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+Source[1],HT000901,384LDV_Plus_AQ_GP,N3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N3,0,0,,,150,0,0,0,Percent,Glycerol,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+Source[4],HT000910,384LDV_Plus_AQ_GP,N3,Destination[4]-01,HTIF00299,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N3,0,0,,,150,0,2.991,0.432,Percent,Glycerol,MM0202006: Problem calc. eo fc: 1.48129 ft: 0.409873
+Source[4],HT000910,384LDV_Plus_AQ_GP,N3,Destination[4]-02,HTIF00305,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N3,0,0,,,150,0,2.991,0.432,Percent,Glycerol,MM0202006: Problem calc. eo fc: 1.48129 ft: 0.409873
+Source[4],HT000910,384LDV_Plus_AQ_GP,N3,Destination[4]-03,HTIF00311,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N3,0,0,,,150,0,2.991,0.432,Percent,Glycerol,MM0202006: Problem calc. eo fc: 1.48129 ft: 0.409873
+

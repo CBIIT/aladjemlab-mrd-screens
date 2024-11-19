@@ -1,0 +1,10 @@
+Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Well X Offset,Destination Well Y Offset,Sample ID,Sample Name,Transfer Volume,Actual Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,G23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,I23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,K23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,L23,0,0,,,150,0,9.29,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,M23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N23,0,0,,,150,0,9.29,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,O23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,P23,0,0,,,150,0,9.29,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+

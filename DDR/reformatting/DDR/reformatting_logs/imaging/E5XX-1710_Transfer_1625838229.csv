@@ -1,0 +1,23 @@
+Run ID,1625838229
+Run Date/Time,2021-07-09 09:59:35
+Application Name,Labcyte Echo Plate Reformat
+Application Version,1.6.5
+Protocol Name,210709_Add_siRNA_Controls_HuDNA_Damage-FIX.epr
+User Name,NCI-LRBGE_HCS
+
+[DETAILS]
+Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Well X Offset,Destination Well Y Offset,Sample ID,Sample Name,Transfer Volume,Actual Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+Source[1],,384PP_AQ_BP,A3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,G23,0,0,,,150,150,34.103,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,I23,0,0,,,150,150,33.835,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,K23,0,0,,,150,150,33.401,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,L23,0,0,,,150,150,39.532,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,M23,0,0,,,150,150,33.009,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N23,0,0,,,150,150,39.078,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,O23,0,0,,,150,150,32.699,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1],HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,P23,0,0,,,150,150,38.872,100,,AQ,
+
+Instrument Name,E5XX-1710
+Instrument Model,Echo 525
+Instrument Serial Number,E5XX-1710
+Instrument Software Version,2.5.15
+

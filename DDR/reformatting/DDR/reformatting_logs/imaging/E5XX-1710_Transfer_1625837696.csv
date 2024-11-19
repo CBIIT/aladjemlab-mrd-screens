@@ -1,0 +1,66 @@
+Run ID,1625837696
+Run Date/Time,2021-07-09 09:50:42
+Application Name,Labcyte Echo Plate Reformat
+Application Version,1.6.5
+Protocol Name,210709_Add_siRNA_Controls_HuDNA_Damage.epr
+User Name,NCI-LRBGE_HCS
+
+[EXCEPTIONS]
+Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Well X Offset,Destination Well Y Offset,Sample ID,Sample Name,Transfer Volume,Actual Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,G23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,I23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,K23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,L23,0,0,,,150,0,9.29,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,M23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N23,0,0,,,150,0,9.29,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,O23,0,0,,,150,0,9.28,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,P23,0,0,,,150,0,9.29,100,,AQ,MM0202001: Current fluid height below minimum transfer level
+
+[DETAILS]
+Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Well X Offset,Destination Well Y Offset,Sample ID,Sample Name,Transfer Volume,Actual Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,A23,0,0,,,150,150,11.98,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,B23,0,0,,,150,150,12.29,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,C23,0,0,,,150,150,11.83,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,D23,0,0,,,150,150,12.14,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,E23,0,0,,,150,150,11.68,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,F23,0,0,,,150,150,11.99,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,G23,0,0,,,150,150,11.53,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,H23,0,0,,,150,150,11.84,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,I23,0,0,,,150,150,11.38,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,J23,0,0,,,150,150,11.69,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,K23,0,0,,,150,150,11.23,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,L23,0,0,,,150,150,11.54,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,M23,0,0,,,150,150,11.08,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N23,0,0,,,150,150,11.39,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,O23,0,0,,,150,150,10.93,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-01,HTIF00310,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,P23,0,0,,,150,150,11.24,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,A23,0,0,,,150,150,10.78,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,B23,0,0,,,150,150,11.09,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,C23,0,0,,,150,150,10.63,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,D23,0,0,,,150,150,10.94,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,E23,0,0,,,150,150,10.48,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,F23,0,0,,,150,150,10.79,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,G23,0,0,,,150,150,10.33,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,H23,0,0,,,150,150,10.64,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,I23,0,0,,,150,150,10.18,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,J23,0,0,,,150,150,10.49,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,K23,0,0,,,150,150,10.03,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,L23,0,0,,,150,150,10.34,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,M23,0,0,,,150,150,9.88,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,N23,0,0,,,150,150,10.19,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,O23,0,0,,,150,150,9.73,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-02,HTIF00309,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,P23,0,0,,,150,150,10.04,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,A23,0,0,,,150,150,9.58,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,B23,0,0,,,150,150,9.89,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,C23,0,0,,,150,150,9.43,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,D23,0,0,,,150,150,9.74,100,,AQ,
+Source[1],,384PP_AQ_BP,A3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,E23,0,0,,,150,150,9.28,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,F23,0,0,,,150,150,9.59,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,H23,0,0,,,150,150,9.44,100,,AQ,
+Source[1],,384PP_AQ_BP,B3,Destination[1]-03,HTIF00308,384PP_BARCODE_PerkinElmer_CellCarrier_Ultra_Dest,J23,0,0,,,150,150,9.29,100,,AQ,
+
+Instrument Name,E5XX-1710
+Instrument Model,Echo 525
+Instrument Serial Number,E5XX-1710
+Instrument Software Version,2.5.15
+
